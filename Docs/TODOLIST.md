@@ -25,3 +25,5 @@ Risk Plan
 Example - Backup
 
 CLUSTER?
+
+relacional
